@@ -50,7 +50,7 @@ Sotto-Jachai is a secure system designed to prevent propaganda and false informa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eCodeVoyager/Sotto-Jachai-Project.git
+   git clone https://github.com/devwithfarshi/Sotto-Jachai-Project.git
    ```
 
 2. Install dependencies:
@@ -95,7 +95,7 @@ Sotto-Jachai is a secure system designed to prevent propaganda and false informa
 1. Clone the repository:
 
    ```bash
-   git clone git clone https://github.com/eCodeVoyager/Sotto-Jachai-Project.git
+   git clone git clone https://github.com/devwithfarshi/Sotto-Jachai-Project.git
    ```
 
 2. Install dependencies:
