@@ -1,4 +1,3 @@
-
 # 📊 **Sotto-Jachai Project Overview**
 
 ## Project Overview
